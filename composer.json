@@ -1,0 +1,6 @@
+{
+    "name": "interactive-one/expiring-posts",
+    "type": "wordpress-plugin",
+    "license": "GPL-2.0-only",
+    "require": {}
+}
